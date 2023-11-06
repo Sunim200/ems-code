@@ -1,0 +1,16 @@
+:root {
+    --textColor: #091415;
+    --backgroundColor: #f1f8f9;
+    --primaryColor: #82c1c9;
+    --secondaryColor: #bfdfe3;
+    --accentColor: #408c96;
+}
+
+html, body {
+    width: 100%;
+    height: 100vh;
+}
+
+body {
+    background-color: var(--backgroundColor);
+}
