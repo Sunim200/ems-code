@@ -1,9 +1,10 @@
 :root {
-    --textColor: #091415;
-    --backgroundColor: #f1f8f9;
-    --primaryColor: #82c1c9;
-    --secondaryColor: #bfdfe3;
-    --accentColor: #408c96;
+    --whiteColor: #f1efee;
+    --blackColor: #000000;
+    --backgroundColor: #5a5a5a;
+    --primaryColor: #637074;
+    --secondaryColor: #1e2024;
+    --accentColor: #7e918c;
 }
 
 * {
@@ -28,7 +29,7 @@ body {
 }
 
 header {
-    background-color: var(--primaryColor);
+    background-color: var(--whiteColor);
     padding: 2rem;
 }
 
@@ -40,7 +41,7 @@ ul {
 
 a {
     text-decoration: none;
-    color: var(--textColor);
+    color: var(--blackColor);
     font-size: .925rem;
 }
 

@@ -1,6 +1,7 @@
 :root {
     /* --backgroundColor: #381d4e; */
-    --backgroundColor: #2c173d;
+    /* --backgroundColor: #2c173d; */
+    --backgroundColor: rgb(72, 70, 72);
     --primaryColor: #dec6af;
     --accentColor: #58bb88;
 }
